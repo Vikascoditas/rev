@@ -1,6 +1,10 @@
 1st
 2nd
+<<<<<<< HEAD
 3rd
 4th
 5th
 6th
+=======
+3rd
+>>>>>>> parent of 990a371 (4)
